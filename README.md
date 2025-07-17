@@ -73,19 +73,6 @@ Cada pasta contém:
 
 ---
 
-## 🧾 Certificação
 
-📜 Ao final do curso, será emitido um certificado de conclusão pela Udemy/App Brewery.
-
----
-
-## 📬 Contato
-
-Feito com 💻 por **Daniel Eduardo Ferreira da Silva Nascimento**  
-📧 danielcontato.dev@gmail.com  
-🔗 [LinkedIn](https://www.linkedin.com/in/wolfdnb)  
-🐙 [GitHub](https://github.com/wolfdnb)
-
----
 
 > 🚀 "A prática diária é o caminho mais curto para a maestria." – #100DaysOfCode
